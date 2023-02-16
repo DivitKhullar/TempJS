@@ -17,8 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>on Vercel.</code>
+            Get started by editing on Vercel&nbsp;
+            <code className={styles.code}></code>
           </p>
           <div>
             <a
