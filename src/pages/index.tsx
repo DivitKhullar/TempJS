@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-          Nextjs app deployed on Vercel&nbsp;
+          Hi Ankita :*&nbsp;
             <code className={styles.code}></code>
           </p>
           <div>
